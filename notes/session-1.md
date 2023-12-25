@@ -1,0 +1,1 @@
+1. To install go to this website: 1. https://nextjs.org/docs/getting-started/installation
